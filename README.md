@@ -7,4 +7,4 @@ Built using Power BI, Python (for ETL), and SQL Server integration.
 - Live data sync using Python script (MongoDB → SQL Server)
 - Visual insights into user engagement and transactions
 
-📊 [Watch this!](https://github.com/Parul315/PowerBI-Dashboard-AmazDraw/blob/main/AmazDraw_powerBI_Dashboard.mp4)
+📊 [Watch this!](AmazDraw_powerBI_Dashboard.mp4)
